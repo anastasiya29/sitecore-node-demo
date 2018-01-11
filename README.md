@@ -1,7 +1,7 @@
 # README #
 
-### What is this repository for? ###
-This repository contains the demo files created in tutorial - [A Quick-Start Guide to Using Node to Bundle JavaScript Modules for Sitecore](http://codealamodeblog.com//2017/12/sitecore-node-quickstart/)
+### What is this repository for?
+This repository contains the demo files created in tutorial: [A Quick-Start Guide to Using Node to Bundle JavaScript Modules for Sitecore](http://codealamodeblog.com//2017/12/sitecore-node-quickstart/)
 This tutorial is aimed at Sitecore/.NET developers who are new to the node universe. We will build Sitecore renderings that use JavaScript modules, and learn how to get started with the following frameworks:
 * [npm](https://www.npmjs.com)
 * [rollup](https://rollupjs.org/)
